@@ -53,6 +53,6 @@ params:
 #    - infinite
 #    - gutwork
  
-  footer:
+#  footer:
     # Logo (from /images/logos/___)
-    logo: operatorsnetwork-logo-RVB.svg
+#    logo: operatorsnetwork-logo-RVB.svg
