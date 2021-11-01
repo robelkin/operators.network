@@ -113,8 +113,8 @@ disableThemeToggle = true
 #  minMatchCharLength = 0
 #  keys = [ "title", "permalink", "summary", "content" ]
 
-#[[menu.main]]
-#identifier = "blog"
-#name = "blog"
-#url = "/blog/"
-#weight = 20
+[[menu.main]]
+identifier = "About"
+name = "about"
+url = "/Operators-Network-Introduction.pdf"
+weight = 20
