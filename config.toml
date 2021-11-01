@@ -21,7 +21,7 @@ minifyOutput = true
 env = "production"
 title = "Operators Network"
 description = "The Angel Syndicate for CTO Operators"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
+keywords = [ "Investors", "Portfolio", "Angel", "Syndicate", "VC" ]
 # author = "Me"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
 DateFormat = "January 2, 2006"
@@ -113,8 +113,8 @@ DateFormat = "January 2, 2006"
 #  minMatchCharLength = 0
 #  keys = [ "title", "permalink", "summary", "content" ]
 
-[[menu.main]]
-identifier = "blog"
-name = "blog"
-url = "/blog/"
-weight = 20
+#[[menu.main]]
+#identifier = "blog"
+#name = "blog"
+#url = "/blog/"
+#weight = 20
