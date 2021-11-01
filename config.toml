@@ -114,7 +114,7 @@ disableThemeToggle = true
 #  keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "About"
-name = "about"
+identifier = "Intro"
+name = "Download Introduction Deck"
 url = "/Operators-Network-Introduction.pdf"
 weight = 20
