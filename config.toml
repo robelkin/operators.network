@@ -54,7 +54,7 @@ disableThemeToggle = true
 
   [params.profileMode]
   enabled = true
-  title = "Operators Network"
+  #title = "Operators Network"
   subtitle = "The Angel Syndicate for CTO Operators"
   imageUrl = "operatorsnetwork-logo-mono-RVB_02.png"
   imageWidth = 300
