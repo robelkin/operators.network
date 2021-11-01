@@ -16,8 +16,10 @@ markup:
 params:
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
+  
   # Used as meta data; describe your site to make Google Bots happy
   description: "Operators Network -- The angel syndicate for CTO operators"
+  
   navbarlogo:
   # Logo (from static/images/logos/___)
     image: logos/operatorsnetwork-logo-RVB.svg
@@ -27,6 +29,8 @@ params:
     name: "NowAlt-medium"
     sizes: [400,600]
 
+  favicon: "/favicon/"
+  
   hero:
     # Main hero title
     title: Operators Network
@@ -52,19 +56,3 @@ params:
   footer:
     # Logo (from /images/logos/___)
     logo: operatorsnetwork-logo-RVB.svg
-    # Social Media Title
-  #  socialmediatitle: Follow Us
-    # Social media links (GitHub, Twitter, etc.). All are optional.
-  #  socialmedia:
-  #  - link: https://github.com/lucperkins/github-fresh
-      # Icons are from Font Awesome
-  #    icon: github
-  #  - link: https://dribbble.com/#
-  #    icon: dribbble
-  #  - link: https://facebook.com/#
-  #    icon: facebook
-  #  - link: https://twitter.com/lucperkins
-  #    icon: twitter
-  #  - link: https://bitbucket.org/#
-  #    icon: bitbucket
-
