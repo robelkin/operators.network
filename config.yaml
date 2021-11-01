@@ -1,0 +1,70 @@
+baseURL: http://operators.network/
+languageCode: en-gb
+title: Operators Network
+theme: hugo-fresh
+copyright: Operators Network (c) {{ .Now.Year }}
+#googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description: "Operators Network -- The angel syndicate for CTO operators"
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/operatorsnetwork-logo-RVB.svg
+    link: /
+
+  font: 
+    name: "NowAlt-medium"
+    sizes: [400,600]
+
+  hero:
+    # Main hero title
+    title: Operators Network
+    # Hero subtitle (optional)
+    subtitle: The angel syndicate for CTO operators
+    # Button text
+    buttontext: Download Intro Deck
+    # Where the main hero button links to
+    buttonlink: "/operators-network-introduction.pdf"
+    # Hero image (from static/images/___)
+    image: illustrations/operators-network-headline.svg
+
+    # Footer logos (from static/images/logos/clients/___.svg)
+
+## Use these for when we decide to publicise our investments
+#    clientlogos:
+#    - systek
+#    - tribe
+#    - kromo
+#    - infinite
+#    - gutwork
+ 
+  footer:
+    # Logo (from /images/logos/___)
+    logo: operatorsnetwork-logo-RVB.svg
+    # Social Media Title
+  #  socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+  #  socialmedia:
+  #  - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+  #    icon: github
+  #  - link: https://dribbble.com/#
+  #    icon: dribbble
+  #  - link: https://facebook.com/#
+  #    icon: facebook
+  #  - link: https://twitter.com/lucperkins
+  #    icon: twitter
+  #  - link: https://bitbucket.org/#
+  #    icon: bitbucket
+
