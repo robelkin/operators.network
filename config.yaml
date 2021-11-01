@@ -26,7 +26,7 @@ params:
     link: /
 
   font: 
-    name: "NowAlt-medium"
+    name: "NowAltMedium"
     sizes: [400,600]
 
   favicon: "/favicon/"
