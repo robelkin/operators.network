@@ -2,7 +2,7 @@ baseURL: http://operators.network/
 languageCode: en-gb
 title: Operators Network
 theme: hugo-fresh
-copyright: Operators Network (c) {{ .Now.Year }}
+copyright: Operators Network (c) {{ YEAR }}
 #googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
