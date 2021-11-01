@@ -56,10 +56,10 @@ disableThemeToggle = true
   enabled = true
   #title = "Operators Network"
   subtitle = "The Angel Syndicate for CTO Operators"
-  imageUrl = "operatorsnetwork-logo-mono-RVB_02.png"
-  imageWidth = 300
-  imageHeight = 129
-  imageTitle = "Operators Network"
+#  imageUrl = "operatorsnetwork-logo-mono-RVB_02.png"
+#  imageWidth = 300
+#  imageHeight = 129
+#  imageTitle = "Operators Network"
 
 #    [[params.profileMode.buttons]]
 #    name = "Posts"
