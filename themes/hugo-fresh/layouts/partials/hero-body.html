@@ -1,6 +1,7 @@
 {{- $hero       := .Site.Params.hero }}
 {{- $title      := index $hero "title" }}
 {{- $subtitle   := index $hero "subtitle" }}
+{{- $subtitle   := index $hero "herotext" }}
 {{- $buttonText := index $hero "buttontext" }}
 {{- $buttonLink := index $hero "buttonlink" }}
 {{- $image      := index $hero "image" }}
@@ -16,6 +17,9 @@
           {{ . }}
         </h2>
         {{ end }}
+        <p>
+          {{ $herotext }}
+        </p>
         <p>
           <a class="button cta rounded primary-btn raised" href="{{ $buttonLink }}">
             {{ $buttonText }}
