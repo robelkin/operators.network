@@ -22,7 +22,7 @@ params:
   
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/operatorsnetwork-logo-RVB.svg
+    image: logos/operatorsnetwork-logo-RVB_02.png
     link: /
 
   font: 
