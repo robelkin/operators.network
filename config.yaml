@@ -43,6 +43,10 @@ params:
     # Hero image (from static/images/___)
     image: illustrations/operators-network-headline.svg
 
+  navbar:
+    - title: Download Intro Deck
+      url: "/operators-network-introduction.pdf"
+
     # Footer logos (from static/images/logos/clients/___.svg)
 
 ## Use these for when we decide to publicise our investments
