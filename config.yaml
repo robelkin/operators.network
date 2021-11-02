@@ -25,9 +25,9 @@ params:
     image: logos/operatorsnetwork-logo-mono-RVB_02.png
     link: /
 
-  font: 
-    name: "NowAltMedium"
-    sizes: [400,600]
+#  font: 
+#    name: "NowAltMedium"
+#    sizes: [400,600]
 
   favicon: "/favicon/"
   
