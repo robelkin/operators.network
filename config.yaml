@@ -36,9 +36,7 @@ params:
     title: Operators Network
     # Hero subtitle (optional)
     subtitle: The Angel Syndicate for CTO Operators
-    herotext: The CTO Operators.Network is a syndicate of operational CTO angel investors. 
-    
-    Companies receiving investment from the network will have access to support and guidance from experienced CTOs with a large amount of combined experience.
+    herotext: The CTO Operators.Network is a syndicate of operational CTO angel investors. Companies receiving investment from the network will have access to support and guidance from experienced CTOs with a large amount of combined experience.
     # Button text
 #    buttontext: Download Intro Deck
     # Where the main hero button links to
