@@ -36,6 +36,7 @@ params:
     title: Operators Network
     # Hero subtitle (optional)
     subtitle: The angel syndicate for CTO operators
+    herotext: New hero text
     # Button text
 #    buttontext: Download Intro Deck
     # Where the main hero button links to
