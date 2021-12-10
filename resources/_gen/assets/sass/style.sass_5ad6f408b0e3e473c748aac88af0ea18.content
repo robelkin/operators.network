@@ -6181,8 +6181,8 @@ Navbar
   .navbar.is-fresh .navbar-brand {
     min-height: 4rem; }
     .navbar.is-fresh .navbar-brand img {
-      max-height: 36px !important;
-      height: 36px; }
+      max-height: 72px !important;
+      height: 72px; }
     .navbar.is-fresh .navbar-brand:hover .navbar-item {
       background: transparent !important; }
   .navbar.is-fresh .navbar-end {
@@ -6874,7 +6874,7 @@ Testimonials Styles
     line-height: 1.6em;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.15); }
   .testimonial blockquote:before, .testimonial blockquote:after {
-    font-family: 'FontAwesome';
+    font-family: 'NowAltMedium';
     content: "\f10d";
     position: absolute;
     font-size: 20px;
@@ -7035,7 +7035,7 @@ body #backtotop a {
 #backtotop a:after {
   outline: none;
   content: "\f106";
-  font-family: "FontAwesome";
+  font-family: "NowAltMedium";
   position: relative;
   display: block;
   top: 50%;
