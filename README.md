@@ -5,5 +5,5 @@ This is a hugo instance hosted on github pages to serve https://operators.networ
 It uses:
 
 * Hugo: https://gohugo.io/
-* PaperMod: https://themes.gohugo.io/themes/hugo-papermod/
-* Github Pages: https://github.com/peaceiris/actions-hugo
+* Hugo Fresh theme: https://themes.gohugo.io/themes/hugo-fresh/
+* Github Pages deployment: https://github.com/peaceiris/actions-hugo
